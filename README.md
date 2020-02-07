@@ -4,17 +4,17 @@
 
 Pseudocode
 
- #//constants
-#Player
-#Dealer
-#Card
-#Deck
+# //constants
+# Player
+# Dealer
+# Card
+# Deck
 
 
-#//variables
-#Player chooses
-#Dealer(computer) chooses
-#Winner
+# //variables
+# Player chooses
+# Dealer(computer) chooses
+# Winner
 #Shuffle
 
 #//cached elements
