@@ -4,8 +4,8 @@
 
 Pseudocode
 
-# //constants
-# Player
+## //constants
+## Player
 # Dealer
 # Card
 # Deck
