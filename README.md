@@ -4,11 +4,11 @@
 
 Pseudocode
 
-*//constants
-*Player
-*Dealer
-*Card
-# Deck
+```//constants
+Player
+Dealer
+Card
+Deck
 
 
 # //variables
@@ -47,4 +47,4 @@ Pseudocode
 #else if dealers cards >= 19 && <= 21 'Stay'
 #else bust 
 #Result compares 
-#play again?
+#play again?```
