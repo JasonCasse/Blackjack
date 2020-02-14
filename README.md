@@ -8,6 +8,12 @@ Game Play
 Game End
 ![Image Description](imgs/end-game.png)
 
+
+Technologies Used: Javascript, HTML, CSS.
+Link to play:
+Next Steps: Enhance CSS, add sounds, add betting options.
+
+
 Pseudocode
 
 ```
