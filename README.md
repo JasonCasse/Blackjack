@@ -1,8 +1,11 @@
 # Blackjack
-
+Wire Frame
 ![Image Description](imgs/wire-frame.jpg)
+Game Initialization
 ![Image Description](imgs/Initialized.png)
+Game Play
 ![Image Description](imgs/game-play.png)
+Game End
 ![Image Description](imgs/end-game.png)
 
 Pseudocode
