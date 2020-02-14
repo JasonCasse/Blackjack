@@ -10,7 +10,9 @@ Game End
 
 
 Technologies Used: Javascript, HTML, CSS.
-Link to play:
+
+Link to play: https://jasoncasse.github.io/Blackjack/
+
 Next Steps: Enhance CSS, add sounds, add betting options.
 
 
