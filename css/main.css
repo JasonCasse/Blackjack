@@ -12,16 +12,7 @@ html {
     padding-top: 10px;
    
   }
-  .header {
-      top: 0px;
-      color: red;
-      line-height: 1em;
-      font-size: 40px;
-      
-      text-align: center;
-
-
-  }
+  
   
   #dealer{
     box-sizing: border-box;
